@@ -1,0 +1,9 @@
+# ninja log v5
+1	59	1690894200802762233	CMakeFiles/untitled3.dir/exercico2.c.o	57fdf7037b6d08f9
+105	204	1691162927079849684	untitled3	fcad1c5f8991a23f
+0	637	1690807659912643964	CMakeFiles/untitled3.dir/main.c.o	a9c0ccd26182302a
+1	60	1690811988008942784	CMakeFiles/untitled3.dir/exercico1.c.o	77639b2c005bb463
+0	105	1691162926981010901	CMakeFiles/untitled3.dir/exercico5.c.o	7f175fa4f56b617f
+0	163	1691415727726415391	build.ninja	c05abebd0040550c
+1	70	1691162031341965570	CMakeFiles/untitled3.dir/exercico4.c.o	5982854a6b9a7ff9
+1	56	1690894967543591295	CMakeFiles/untitled3.dir/exercico3.c.o	ec2859501f8a58d8
